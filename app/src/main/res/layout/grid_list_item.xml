@@ -34,7 +34,7 @@
             android:layout_height="194dp"
             android:adjustViewBounds="true"
             android:scaleType="centerCrop"
-            android:contentDescription="Dog"
+            android:contentDescription="@string/dog_name"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
